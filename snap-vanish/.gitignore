@@ -1,0 +1,5 @@
+# Large third-party runtimes and models: fetched by scripts/fetch-vendor.sh
+# (they are included in dist/snap-vanish.zip).
+extension/vendor/
+extension/models/
+node_modules/

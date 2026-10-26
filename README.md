@@ -96,3 +96,10 @@ is labelled `pos` or `neg` based on the critic's own rating.
 The end of the notebook has exercises to try (raw counts, word pairs, other models) and pointers
 to more advanced methods: lexicon-based sentiment (VADER), cross-validation, and transformer
 models.
+
+## Also in this repository
+
+- [`snap-vanish/`](snap-vanish/): **Snap Vanish**, a Chrome extension that turns you into dust on
+  Google Meet / Teams / Zoom when you snap your fingers. Install it from
+  [`snap-vanish/dist/snap-vanish.zip`](snap-vanish/dist/snap-vanish.zip); see its
+  [README](snap-vanish/README.md).

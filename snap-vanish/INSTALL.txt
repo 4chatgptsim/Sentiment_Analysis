@@ -1,0 +1,45 @@
+SNAP VANISH — INSTALL (about 1 minute)
+=======================================
+
+1. Unzip snap-vanish.zip. You get a folder called "snap-vanish".
+   Put it somewhere permanent (e.g. Documents) — Chrome loads the extension
+   from this folder, so don't delete it.
+
+2. In Chrome, go to:  chrome://extensions
+
+3. Turn on "Developer mode" (switch in the top-right corner).
+
+4. Click "Load unpacked" and choose the "snap-vanish" folder
+   (the one that contains manifest.json).
+
+5. Pin it: click the puzzle-piece icon in Chrome's toolbar, then the pin next
+   to "Snap Vanish".
+
+6. Open your call in the browser — Google Meet, Microsoft Teams or Zoom
+   (web). If the call tab was already open, reload it once.
+   Turn your camera on. After a few seconds you'll see
+   "Snap Vanish is ready" in the bottom-left corner.
+
+7. Snap your fingers where the camera can see your hand.
+   You turn to dust, the room behind you stays, and your mic mutes.
+   Snap again to come back (mic unmutes).
+
+   Backup: press Alt+Shift+S, or click "Snap now" in the Snap Vanish popup.
+
+
+TIPS
+----
+- Snap with your hand clearly in view, palm roughly facing the camera,
+  20–60 cm from it. Hold the "ready to snap" pose for a moment, then snap.
+- For the best empty room, lean or move around a little in the first
+  minute: every bit of room the camera sees is remembered, and only the
+  parts it has never seen are filled in by the AI.
+- Turn off the meeting app's own background blur/replace effects.
+- "Saw your snap but didn't hear it": just snap once more — two clear snaps
+  in a row always count.
+- Too many false snaps? Lower "Snap sensitivity" in the popup.
+  Snaps not noticed? Raise it, or untick "Confirm snaps with the click sound".
+- Change the shortcut at chrome://extensions/shortcuts
+
+Everything runs on your computer. No video or audio is sent anywhere by
+Snap Vanish.
